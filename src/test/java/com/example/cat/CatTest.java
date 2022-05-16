@@ -2,7 +2,6 @@ package com.example.cat;
 
 import com.example.Cat;
 import com.example.Feline;
-import com.example.Lion;
 import com.example.Predator;
 import org.junit.Assert;
 import org.junit.Before;
